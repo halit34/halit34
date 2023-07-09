@@ -1,4 +1,4 @@
-<img src="https://github.com/halit34/halit34/blob/main/lincofee1.jpg?raw=true">
+<img src="https://github.com/halit34/halit34/blob/main/githubGif.gif?raw=true" alt="Hi, I'm Halit 👋 I'm a 🚀 Salesforce Developer 🚀">
 
 <h1 align= "center"> Hi, I'm Halit</h1>
 
